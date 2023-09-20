@@ -11,3 +11,4 @@ Photo by Tom Fisk: https://www.pexels.com/photo/top-view-photo-of-junkyard-16155
 Photo by Kampus Production: https://www.pexels.com/photo/white-van-on-brown-dirt-road-7476889/
 
 Photo by Lukas Žvikas: https://www.pexels.com/photo/person-laying-in-front-of-silver-sedan-1075947/
+Photo by Pixabay: https://www.pexels.com/photo/close-up-of-electric-lamp-against-black-background-248747/
