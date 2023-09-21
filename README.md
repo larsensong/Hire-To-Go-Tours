@@ -1,5 +1,5 @@
 <html>
-         <h1>🚗 Hire To Go Tours - Car Rental Web App 🚙<h1>
+         <h1>🚗 Hire To Go Tours - Car Rental Web App 🚙</h1>
 
    Overview🔖
 
