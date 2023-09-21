@@ -9,7 +9,7 @@ Hire To Go Tours is a web-based car rental application designed for customers to
 Hire To Go Tours is a web-based car rental application designed for customers to easily rent vehicles for their travel needs. This README file provides information on setting up and running the application on your local development environment using XAMPP.
 
 
-   <h2> Prerequisites🧠</h2>
+   <h3> Prerequisites🧠</h3>
 
 Before you begin, ensure you have met the following requirements:
 1.XAMPP installed on your local machine.
