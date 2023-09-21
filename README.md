@@ -21,7 +21,7 @@ Navigate to the Project Directory:
 Copy code
 cd hire-to-go-tours
 
-        Database Setup💻
+        <h5>Database Setup<h5>💻
 
 Create a MySQL database for the application (hire_to_go_tours) using phpMyAdmin or any MySQL client.
 Import the database schema from the database.sql file included in the project.
@@ -56,8 +56,4 @@ We welcome contributions to improve this project. Feel free to submit issues or 
 This project is licensed under the MIT License.
 
 
-Photo by Tom Fisk: https://www.pexels.com/photo/top-view-photo-of-junkyard-1615548/
-Photo by Kampus Production: https://www.pexels.com/photo/white-van-on-brown-dirt-road-7476889/
 
-Photo by Lukas Žvikas: https://www.pexels.com/photo/person-laying-in-front-of-silver-sedan-1075947/
-Photo by Pixabay: https://www.pexels.com/photo/close-up-of-electric-lamp-against-black-background-248747/
