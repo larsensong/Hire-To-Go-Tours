@@ -95,6 +95,7 @@ foreach($results as $result)
 
 
 
+
 <<!--Footer -->
 <?php include('includes/footer.php');?>
 <!-- /Footer--> 
@@ -130,5 +131,5 @@ foreach($results as $result)
 
 </body>
 
-<!-- Mirrored from themes.webmasterdriver.net/carforyou/demo/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Jun 2017 07:26:12 GMT -->
+
 </html>
