@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
    <h2> Getting Started🧰</h2>
  
 Clone the Repository
-  bash code
+  bash code:
 git clone https://github.com/larsensong/hire-to-go-tours.git
 Navigate to the Project Directory:    
  bash code
