@@ -21,7 +21,7 @@ Clone the Repository
   bash code:
 git clone https://github.com/larsensong/hire-to-go-tours.git
 Navigate to the Project Directory:    
- bash code
+ bash code:
 cd hire-to-go-tours
 
  <h2> Database Setup💻</h2>
