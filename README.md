@@ -35,7 +35,7 @@ Open the config.php file in the project's root directory.
 Update the database connection settings with your MySQL credentials:
 
  php
-Example of code
+Example of code:
 define('DB_HOST', 'localhost');
 define('DB_USER', 'your_db_username');
 define('DB_PASS', 'your_db_password');
