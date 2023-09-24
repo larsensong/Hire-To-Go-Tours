@@ -52,7 +52,7 @@ error_reporting(0);
 
 <!--Header--> 
 <?php include('includes/header.php');?>
-<!-- /Header --> 
+<!-- /Header. --> 
 
 <!--Page Header-->
 <section class="page-header listing_page">
