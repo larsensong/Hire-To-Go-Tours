@@ -42,7 +42,7 @@ $msg="Profile Updated Successfully";
 <title>Hire To Go Tours| My Profile</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
-<!--Custome Style -->
+<!--Custome Style. -->
 <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 <!--OWL Carousel slider-->
 <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
