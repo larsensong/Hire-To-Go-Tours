@@ -109,7 +109,7 @@ $msg="Profile Updated Successfully";
       </ul>
     </div>
   </div>
-  <!-- Dark Overlay-->
+  <!-- Dark Overlay.-->
   <div class="dark-overlay"></div>
 </section>
 <!-- /Page Header--> 
