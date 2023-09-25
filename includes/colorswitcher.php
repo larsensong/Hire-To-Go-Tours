@@ -1,3 +1,4 @@
+<!--This feature will enable the changing of tab colors its  still being developed -->
 <div class="switcher-wrapper">	
     <div class="demo_changer">
         <div class="demo-icon customBgColor"><i class="fa fa-cog fa-spin fa-2x"></i></div>
@@ -20,4 +21,5 @@
         </div>
     </div>
 </div>
-<---! enable the changing of tab colors New feature to be enabled-----!>
+<!--This feature will enable the changing of tab colors its  still being developed -->
+
