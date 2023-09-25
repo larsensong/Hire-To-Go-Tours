@@ -39,7 +39,7 @@ Example of code:
 define('DB_HOST', 'localhost');
 define('DB_USER', 'your_db_username');
 define('DB_PASS', 'your_db_password');
-define('DB_NAME', 'hire_to_go_tours');
+define('DB_NAME', 'carrental');
 
  <h2>Run the Application🏃</h2>
 
