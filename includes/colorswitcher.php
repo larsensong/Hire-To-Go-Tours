@@ -1,4 +1,5 @@
 <!--This feature will enable the changing of tab colors its  still being developed -->
+<!-- Color switcher for tabs --> 
 <div class="switcher-wrapper">	
     <div class="demo_changer">
         <div class="demo-icon customBgColor"><i class="fa fa-cog fa-spin fa-2x"></i></div>
