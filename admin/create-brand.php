@@ -39,7 +39,7 @@ $error="Something went wrong. Please try again";
 	<meta name="author" content="">
 	<meta name="theme-color" content="#3e454c">
 	
-	<title>Hire To Go Tours| Admin Create Car Brands</title>
+	<title>Hire To Go Tours| Admin Create Vehicle Brand</title>
 
 	<!-- Font awesome -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
