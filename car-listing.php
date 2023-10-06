@@ -15,7 +15,7 @@ error_reporting(0);
 <title>Hire To Go Tours | Car Listing</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
-<!--Custome Style -->
+<!--Custome Style .-->
 <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 <!--OWL Carousel slider-->
 <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
