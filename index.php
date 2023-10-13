@@ -14,7 +14,7 @@ error_reporting(0);
 <meta name="keywords" content="">
 <meta name="description" content="">
 <title>Hire To Go Tours</title>
-<!--Bootstrap -->
+<!--Bootstrap. -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
