@@ -38,7 +38,7 @@ $error="Something went wrong. Please try again";
 <title>Hire To Go Tours - Your Travelling Companion</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
-<!--Custome Style -->
+<!--Custome Style. -->
 <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 <!--OWL Carousel slider-->
 <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
