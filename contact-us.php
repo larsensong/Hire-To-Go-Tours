@@ -91,7 +91,7 @@ $error="Something went wrong. Please try again";
 <?php include('includes/colorswitcher.php');?> 
  
         
-<!--Header-->
+<!--Header.-->
 <?php include('includes/header.php');?>
 <!-- /Header --> 
 
