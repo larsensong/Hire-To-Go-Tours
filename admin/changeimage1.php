@@ -39,9 +39,9 @@ $msg="Image updated successfully";
 	<meta name="theme-color" content="#3e454c">
 	
 
-	<title>Hire To Go Tours| Admin Update Image 1</title>
+	<title>Hire To Go Tours| Admin Update Image one </title>
 
-	<!-- Font awesome -->
+	<!-- Font awesome style -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- Sandstone Bootstrap CSS -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -49,7 +49,7 @@ $msg="Image updated successfully";
 	<link rel="stylesheet" href="css/dataTables.bootstrap.min.css">
 	<!-- Bootstrap social button library -->
 	<link rel="stylesheet" href="css/bootstrap-social.css">
-	<!-- Bootstrap select -->
+	<!-- Bootstrap select option  -->
 	<link rel="stylesheet" href="css/bootstrap-select.css">
 	<!-- Bootstrap file input -->
 	<link rel="stylesheet" href="css/fileinput.min.css">
