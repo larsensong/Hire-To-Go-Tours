@@ -35,7 +35,7 @@ $msg="Page data updated  successfully";
 	
 	<title>Hire To Go Tours| Admin Create Brand</title>
 
-	<!-- Font awesome -->
+	<!-- Font awesome style -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- Sandstone Bootstrap CSS -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
