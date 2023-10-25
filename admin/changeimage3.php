@@ -37,9 +37,9 @@ $msg="Image updated successfully";
 	<meta name="author" content="">
 	<meta name="theme-color" content="#3e454c">
 	
-	<title>Hire To Go Tours| Admin Update Image 3</title>
+	<title>Hire To Go Tours| Admin Update Image Three</title>
 
-	<!-- Font awesome -->
+	<!-- Font awesome stle  -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!-- Sandstone Bootstrap CSS -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
